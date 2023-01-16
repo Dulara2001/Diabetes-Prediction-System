@@ -23,3 +23,4 @@ urlpatterns = [
     path("predict/", views.predict),
     path("predict/result/", views.result),
 ]
+
